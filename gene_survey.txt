@@ -1,0 +1,5 @@
+Tumor protein p53
+Gene: Tumor protein p53
+NCBI ID: 7157
+Uniprot: P04637
+PDB: 4IRV
